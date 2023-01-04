@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - ✨I'm a student majoring `Software Engineering` in BUPT
-- ✨I'm learning `OS`, `Database System` and `Probability Theory` in class
-- ✨I want to learn more about `Deep Learning`, `Qt` and `Springboot`
-- ✨Reach me by `2020211810@bupt.edu.cn`
+- ✨Reach me by `xiao_zhu@bupt.edu.cn`
