@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - ✨I'm a student majoring `Software Engineering` in BUPT. Currently, I am working as a research intern at Tencent AI Lab!
-- ✨Reach me by `xiao_zhu@bupt.edu.cn`
+- ✨Reach me by `shawnxzhu@gamil.com`
