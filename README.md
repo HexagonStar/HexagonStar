@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨I’m a Mphil student at The Hong Kong University of Science and Technology (Guangzhou) and obtained my bachelor degree at Beijing University of Posts and Telecommunications.
+- ✨I’m a Mphil student at The Hong Kong University of Science and Technology (Guangzhou) currently.
 - ✨You can find more info about me on my [homepage](https://hexagonstar.github.io/).
 - ✨Reach me by `shawnxzhu@gmail.com`
